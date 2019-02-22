@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: jerry2
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.49
+  version: 0.0.52
 - name: node-http
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
+  version: 0.0.2
